@@ -1,4 +1,6 @@
-# ReduxSimpleStarter
+# React-Tutorial
+
+Based on ReduxSimpleStarter by Stephen Grider
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
